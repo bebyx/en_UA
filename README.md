@@ -1,6 +1,6 @@
 # English locale for Ukraine
 
-Though I am a Ukrainian, I am also a software engineer and prefer English language for my interfaces, the computer world "orginal" and "default" with strictly unified tech terms.
+Though I am a Ukrainian, I am also a software engineer and prefer English language for my interfaces, the computer world "original" and "default" with strictly unified tech terms.
 
 However, as a European, I would never get used to imperial units and similar strangeness guys live with in the US.
 
