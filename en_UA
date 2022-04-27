@@ -121,9 +121,7 @@ d_t_fmt     "%a, %d %b %Y %T" % comma after weekday as in uk_UA
 date_fmt    "%a, %d %b %Y %T %Z" % comma after weekday as in uk_UA
 d_fmt       "%d.%m.%y" % changed to fit UA tradition
 t_fmt       "%T"
-am_pm       "";""Currency, address, numeric, telephone values are changed to fit Ukrainian formats and values.
-
-Time values are unchanged, except for couple slight edits.
+am_pm       "";""
 t_fmt_ampm  ""
 first_weekday 2
 week 7;19971130;1 % changed ;4 to ;1 as in original uk_UA locale
