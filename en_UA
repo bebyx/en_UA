@@ -8,10 +8,9 @@ escape_char /
 % exempt you from the conditions of the license if your use would
 % otherwise be governed by that license.
 
-% This is a non-standard localed, based on en_IE.
-% Monetary, numeric, address values are heavily changed.
-% Only one time value (d_fmt) is changed to fit what Ukrainians are used to.
-%
+% This is a non-standard locale, based on en_IE.
+% Monetary, numeric, address, telephone values are heavily changed to fit Ukrainian formats and values..
+% Only couple time values are slightly edited to fit what Ukrainians are used to.
 
 % English language locale for Ukraine
 % Source:
@@ -122,10 +121,12 @@ d_t_fmt     "%a %d %b %Y %T"
 date_fmt    "%a %d %b %Y %T %Z"
 d_fmt       "%d.%m.%y" % changed to fit UA tradition
 t_fmt       "%T"
-am_pm       "";""
+am_pm       "";""Currency, address, numeric, telephone values are changed to fit Ukrainian formats and values.
+
+Time values are unchanged, except for couple slight edits.
 t_fmt_ampm  ""
 first_weekday 2
-week 7;19971130;1
+week 7;19971130;1 % changed ;4 to ;1 as in original uk_UA locale
 END LC_TIME
 
 LC_MESSAGES
