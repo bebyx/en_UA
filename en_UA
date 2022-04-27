@@ -117,8 +117,8 @@ mon         "January";/
             "October";/
             "November";/
             "December"
-d_t_fmt     "%a %d %b %Y %T"
-date_fmt    "%a %d %b %Y %T %Z"
+d_t_fmt     "%a, %d %b %Y %T" % comma after weekday as in uk_UA
+date_fmt    "%a, %d %b %Y %T %Z" % comma after weekday as in uk_UA
 d_fmt       "%d.%m.%y" % changed to fit UA tradition
 t_fmt       "%T"
 am_pm       "";""Currency, address, numeric, telephone values are changed to fit Ukrainian formats and values.
