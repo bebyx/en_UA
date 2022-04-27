@@ -9,7 +9,7 @@ escape_char /
 % otherwise be governed by that license.
 
 % This is a non-standard locale, based on en_IE.
-% Monetary, numeric, address, telephone values are heavily changed to fit Ukrainian formats and values..
+% Monetary, numeric, address, telephone values are heavily changed to fit Ukrainian formats and values.
 % Only couple time values are slightly edited to fit what Ukrainians are used to.
 
 % English language locale for Ukraine
